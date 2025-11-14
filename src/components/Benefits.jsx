@@ -5,6 +5,14 @@ export default function Benefits() {
   return (
     <div className="bg-[#f8f8f8]">
       <div className="px-6 py-6 justify-between items-start gap-15 md:flex md:py-12 md:px-45">
+        <div className="block w-full mb-8 md:hidden">
+          <img
+            className="md:h-[32rem]"
+            src="/images/Rectangle 15.png"
+            alt="dogfood_img"
+          />
+        </div>
+
         <div className="mb-4 md:w-1/2">
           <h2 className="text-center text-[1.5rem] font-bold mb-5 md:text-[2rem] md:text-left">
             Nutrition is the foundation for longer, healthier lives in dogs.
@@ -58,7 +66,7 @@ export default function Benefits() {
             </Button>
           </div>
         </div>
-        <div className="md:w-1/2">
+        <div className="hidden w-1/2 md:block">
           <img
             className="md:h-[32rem]"
             src="/images/Rectangle 15.png"
