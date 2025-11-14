@@ -1,16 +1,64 @@
-# React + Vite
+# Home Page - GemCommerce Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project is a Homepage built as part of the GemCommerce Customer Success assessment. It follows the provided Figma design and includes responsive behaviour, clean UI and efficient code structure.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Screenshot](#screenshot)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Link](#link)
+- [How to run (local)](#how-to-run)
 
-## React Compiler
+## Screenshot
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Screenshot](public/screenshot_1.png)
+<br/>
+<br/>
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive Layout
+- Reuseable components
+- Clean and maintainable folder structure
+- Smooth user interface with thoughtful interactions
+- Added Favicon
+
+## Tech stack
+
+- React.js (Vite)
+- Tailwind CSS
+
+## Link
+
+- Live Demo : [Demo](https://gemtalent.netlify.app)
+
+## 📦 How to run
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/Jacbfrancis/Gem-Talents-Test.git
+
+   ```
+
+2. Navigate to the project folder:
+
+   ```sh
+   cd Gem-Talents-Test
+
+   ```
+
+3. Install dependencies:
+
+   ```sh
+   npm install
+
+   ```
+
+4. Start the development server:
+
+   ```sh
+   npm run dev
+
+   ```
