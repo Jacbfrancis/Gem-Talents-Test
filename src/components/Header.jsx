@@ -2,7 +2,7 @@ import Button from "./Button";
 
 export default function Header() {
   return (
-    <div className="pt-10 px-6 md:px-45 md:pt-15">
+    <div className="pt-10 px-6 mb-20 md:px-45 md:pt-15">
       <h1 className="text-[1.5rem] text-center font-bold mb-10 md:text-[2rem] md:mb-15">
         What makes us different <br className="hidden md:block" /> makes them
         stronger
