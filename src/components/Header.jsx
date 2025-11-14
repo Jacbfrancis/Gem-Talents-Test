@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex flex-col justify-start items-start gap-10 md:gap-25">
           <div className="flex justify-start items-center">
             <span className="p-4">
-              <img src="/public/images/food1.png" alt="food_icon" />
+              <img src="/images/food1.png" alt="food_icon" />
             </span>
             <div>
               <h2 className="font-semibold">Real Food</h2>
@@ -24,7 +24,7 @@ export default function Header() {
 
           <div className="flex justify-start tems-center">
             <span className="p-4">
-              <img src="/public/images/pet-bowl1.png" alt="bowl_icon" />
+              <img src="/images/pet-bowl1.png" alt="bowl_icon" />
             </span>
 
             <div>
@@ -37,13 +37,13 @@ export default function Header() {
         </div>
 
         <div className="flex justify-start items-start px-15 md:px-0">
-          <img src="/public/images/food-bowl.png" alt="foodbowl_img" />
+          <img src="/images/food-bowl.png" alt="foodbowl_img" />
         </div>
 
         <div className="flex flex-col justify-start items-start gap-10 md:gap-25">
           <div className="flex justify-start items-center">
             <span className="p-4">
-              <img src="/public/images/pet-food1.png" alt="petfood_icon" />
+              <img src="/images/pet-food1.png" alt="petfood_icon" />
             </span>
 
             <div>
@@ -56,7 +56,7 @@ export default function Header() {
           </div>
           <div className="flex justify-start tems-center">
             <span className="p-4">
-              <img src="/public/images/vet1.png" alt="vet_icon" />
+              <img src="/images/vet1.png" alt="vet_icon" />
             </span>
 
             <div>
@@ -76,11 +76,11 @@ export default function Header() {
           <img src="/images/secure.png" alt="secure_icon" />
           <p className="text-[0.6rem]">30 day money back guarntee</p>
           <span className="flex justify-start items-center w-[8%] md:w-auto">
-            <img src="/public/images/paypal.png" alt="secure_icon" />
-            <img src="/public/images/visa.png" alt="secure_icon" />
-            <img src="/public/images/mastercard.png" alt="secure_icon" />
-            <img src="/public/images/ipay.png" alt="secure_icon" />
-            <img src="/public/images/googlepay.png" alt="secure_icon" />
+            <img src="/images/paypal.png" alt="secure_icon" />
+            <img src="/images/visa.png" alt="secure_icon" />
+            <img src="/images/mastercard.png" alt="secure_icon" />
+            <img src="/images/ipay.png" alt="secure_icon" />
+            <img src="/images/googlepay.png" alt="secure_icon" />
           </span>
         </div>
       </div>
