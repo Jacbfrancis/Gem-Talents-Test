@@ -29,7 +29,7 @@ export default function Benefits() {
               Key Points:
             </h4>
 
-            <div className="flex justify-between items-center gap-6 mb-6">
+            <div className="flex justify-start items-center gap-6 mb-6">
               <h2 className="text-[#EE6F4B] text-[1rem] font-bold md:text-[1.7rem]">
                 97%
               </h2>
@@ -39,7 +39,7 @@ export default function Benefits() {
               </p>
             </div>
 
-            <div className="flex justify-between items-center gap-6 mb-6">
+            <div className="flex justify-start items-center gap-6 mb-6">
               <h2 className="text-[#EE6F4B] text-[1rem] font-bold md:text-[1.7rem]">
                 84%
               </h2>
@@ -49,7 +49,7 @@ export default function Benefits() {
               </p>
             </div>
 
-            <div className="flex justify-between items-center gap-6 mb-6">
+            <div className="flex justify-start items-center gap-6 mb-6">
               <h2 className="text-[#EE6F4B] text-[1rem] font-bold md:text-[1.7rem]">
                 92%
               </h2>
@@ -66,7 +66,7 @@ export default function Benefits() {
             </Button>
           </div>
         </div>
-        <div className="hidden w-1/2 md:block">
+        <div className="hidden md:block">
           <img
             className="md:h-[32rem]"
             src="/images/Rectangle 15.png"

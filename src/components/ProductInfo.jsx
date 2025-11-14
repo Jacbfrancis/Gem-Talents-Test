@@ -3,7 +3,7 @@ export default function ProductInfo() {
     <div className="px-6 py-6 mb-10 md:py-12 md:px-45">
       <div className="justify-between items-center mb-15 gap-15 md:mb-25 md:flex">
         <img
-          className="mb-[1.5rem] md:mb-auto md:w-1/2"
+          className="mb-[1.5rem] md:w-1/2"
           src="/images/Rectangle 8.png"
           alt="dog-eating_img"
         />
